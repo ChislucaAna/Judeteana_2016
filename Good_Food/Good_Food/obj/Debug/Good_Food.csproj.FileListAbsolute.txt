@@ -1,0 +1,16 @@
+C:\Users\anach\OneDrive\Desktop\Good_Food\Good_Food\obj\Debug\Good_Food.csproj.AssemblyReference.cache
+C:\Users\anach\OneDrive\Desktop\Good_Food\Good_Food\obj\Debug\Good_Food.Creare_cont_client.resources
+C:\Users\anach\OneDrive\Desktop\Good_Food\Good_Food\obj\Debug\Good_Food.Properties.Resources.resources
+C:\Users\anach\OneDrive\Desktop\Good_Food\Good_Food\obj\Debug\Good_Food.Start.resources
+C:\Users\anach\OneDrive\Desktop\Good_Food\Good_Food\obj\Debug\Good_Food.csproj.GenerateResource.cache
+C:\Users\anach\OneDrive\Desktop\Good_Food\Good_Food\obj\Debug\Good_Food.csproj.CoreCompileInputs.cache
+C:\Users\anach\OneDrive\Desktop\Good_Food\Good_Food\bin\Debug\GOOD_FOOD.mdf
+C:\Users\anach\OneDrive\Desktop\Good_Food\Good_Food\bin\Debug\GOOD_FOOD_log.ldf
+C:\Users\anach\OneDrive\Desktop\Good_Food\Good_Food\bin\Debug\Good_Food.exe.config
+C:\Users\anach\OneDrive\Desktop\Good_Food\Good_Food\bin\Debug\Good_Food.exe
+C:\Users\anach\OneDrive\Desktop\Good_Food\Good_Food\bin\Debug\Good_Food.pdb
+C:\Users\anach\OneDrive\Desktop\Good_Food\Good_Food\obj\Debug\Good_Food.exe
+C:\Users\anach\OneDrive\Desktop\Good_Food\Good_Food\obj\Debug\Good_Food.pdb
+C:\Users\anach\OneDrive\Desktop\Good_Food\Good_Food\obj\Debug\Good_Food.Autentificare_client.resources
+C:\Users\anach\OneDrive\Desktop\Good_Food\Good_Food\obj\Debug\Good_Food.Optiuni.resources
+C:\Users\anach\OneDrive\Desktop\Good_Food\Good_Food\obj\Debug\Good_Food.Vizualizare_comanda.resources
