@@ -1,0 +1,16 @@
+C:\Users\anach\OneDrive\Desktop\Judeteana_2016_better\Judeteana_2016_better\obj\Debug\Judeteana_2016_better.csproj.AssemblyReference.cache
+C:\Users\anach\OneDrive\Desktop\Judeteana_2016_better\Judeteana_2016_better\obj\Debug\Judeteana_2016_better.Properties.Resources.resources
+C:\Users\anach\OneDrive\Desktop\Judeteana_2016_better\Judeteana_2016_better\obj\Debug\Judeteana_2016_better.Start.resources
+C:\Users\anach\OneDrive\Desktop\Judeteana_2016_better\Judeteana_2016_better\obj\Debug\Judeteana_2016_better.csproj.GenerateResource.cache
+C:\Users\anach\OneDrive\Desktop\Judeteana_2016_better\Judeteana_2016_better\obj\Debug\Judeteana_2016_better.csproj.CoreCompileInputs.cache
+C:\Users\anach\OneDrive\Desktop\Judeteana_2016_better\Judeteana_2016_better\bin\Debug\GOOD_FOOD.mdf
+C:\Users\anach\OneDrive\Desktop\Judeteana_2016_better\Judeteana_2016_better\bin\Debug\GOOD_FOOD_log.ldf
+C:\Users\anach\OneDrive\Desktop\Judeteana_2016_better\Judeteana_2016_better\bin\Debug\Judeteana_2016_better.exe.config
+C:\Users\anach\OneDrive\Desktop\Judeteana_2016_better\Judeteana_2016_better\bin\Debug\Judeteana_2016_better.exe
+C:\Users\anach\OneDrive\Desktop\Judeteana_2016_better\Judeteana_2016_better\bin\Debug\Judeteana_2016_better.pdb
+C:\Users\anach\OneDrive\Desktop\Judeteana_2016_better\Judeteana_2016_better\obj\Debug\Judeteana_2016_better.exe
+C:\Users\anach\OneDrive\Desktop\Judeteana_2016_better\Judeteana_2016_better\obj\Debug\Judeteana_2016_better.pdb
+C:\Users\anach\OneDrive\Desktop\Judeteana_2016_better\Judeteana_2016_better\obj\Debug\Judeteana_2016_better.Creare_cont_client.resources
+C:\Users\anach\OneDrive\Desktop\Judeteana_2016_better\Judeteana_2016_better\obj\Debug\Judeteana_2016_better.Autentificare_client.resources
+C:\Users\anach\OneDrive\Desktop\Judeteana_2016_better\Judeteana_2016_better\obj\Debug\Judeteana_2016_better.Optiuni.resources
+C:\Users\anach\OneDrive\Desktop\Judeteana_2016_better\Judeteana_2016_better\obj\Debug\Judeteana_2016_better.Vizualizare_comanda.resources
